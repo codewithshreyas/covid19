@@ -1,0 +1,38 @@
+html,body{
+padding:0;
+margin:0;
+}
+
+.covid{
+    color:rgb(161, 4, 4);
+}
+input{
+    margin-bottom: 1rem;
+}
+.topMargin{
+    margin-top:5rem;
+}
+
+.card{
+    border:none !important;
+    padding:2rem;
+    border-radius:25px;
+}
+.footer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 10vh;
+}
+
+.navbar .nav-link{
+    border:none!important;
+}
+
+textarea{
+    margin-bottom: 1rem;
+}
+
+.navbar{
+    height:12vh;
+}
